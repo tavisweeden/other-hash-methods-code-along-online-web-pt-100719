@@ -9,6 +9,6 @@ require 'pry'
 # }
 
 def get_the_keys(groceries)
-  #groceries.keys
-  groceries.wordlist.sort_by.min.keys
+  groceries.keys
+  
 end
