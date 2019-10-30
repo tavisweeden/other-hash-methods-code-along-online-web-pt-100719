@@ -10,6 +10,6 @@ require 'pry'
 
 def get_the_keys(groceries)
   groceries.keys
-  
+  wordslist.sort_by |
   
 end
